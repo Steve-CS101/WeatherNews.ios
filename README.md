@@ -9,8 +9,9 @@ Create a simple weather application using Xcode, Swift, and SwiftUI. By the end 
 ### Goal
 Build the UI for the weather app based on the provided mock-up.
 
-![Screenshot #1](./screenshot%20#1.png)
-![Screenshot #2](./screenshot%20#2.png)
+### :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="/screenshots/screenshot_%231.png" width="260">&emsp;<img src="/screenshots/screenshot_%232.png" width="260">
 
 ### Tasks
 1. **Set Up the Project:**
